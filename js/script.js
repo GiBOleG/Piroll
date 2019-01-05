@@ -44,43 +44,44 @@ $(document).ready(function() {
 	);
 
 	let imgPreview = getElements(".image-preview"); // знаходим елемент з класом .image-preview
-	if(imgPreview.length !== 0) {
+	if (imgPreview.length !== 0) {
 		imgPreview = imgPreview[0];
 
-		imgPreview.addEventListener("click", function() { // додаєм подію на клік по .image-preview
+		imgPreview.addEventListener("click", function () { // додаєм подію на клік по .image-preview
 			imgPreview.classList.remove("active"); // видаляэм клас active до .image-preview
 			imgPreview.innerHTML = ""; // видаляєм все що є всередині .image-preview
 		})
 	}
 	const workImages = getElements(".work_img"); // знаходим всі елементи з класом .work_img
-	
-	workImages.forEach(function(work_img, index) { // перебираєм список елементів .work_img
+
+	workImages.forEach(function (work_img, index) { // перебираєм список елементів .work_img
 		console.log(work_img, index);
-		work_img.addEventListener("click", function() { // додає подію на клік по кожній .work_img
+		work_img.addEventListener("click", function () { // додає подію на клік по кожній .work_img
 			const imageElement = getElements("img", work_img)[0]; // шукаєм картинку всередині work_img
-			
+
 			const newImage = document.createElement("img"); // створюэмо нову картинку
-			
+
 			newImage.src = imageElement.src; // присвоюємо новій картинці src
 			newImage.classList.add("new-image"); // додаєм клас new-image до створеної картинки
-			
+
 			imgPreview.appendChild(newImage); // вставляємо нову картинку всередину .image-preview
 			imgPreview.classList.add("active"); // додаємо клас active до .image-preview
 		});
 	});
-	
-	const showMoreBtn = document.getElementById("show-more-btn");
-	if(showMoreBtn) {
-	    showMoreBtn.addEventListener("mouseup", function () {
-
-        })
-
-	const imageHidden = document.getElementById("image_hidden");
-	    imageHidden.forEach(function(image_hidden, home) {
-	    	console.log(image_hidden, home);
-			}
-		)
-
-	}
 });
+	
+// 	const showMoreBtn = document.getElementById("show-more-btn");
+// 	if(showMoreBtn) {
+// 	    showMoreBtn.addEventListener("mouseup", function () {
+//
+//         });
+//
+// 	const imageHidden = document.getElementById("image_hidden");
+// 	    imageHidden.forEach(function(image_hidden, home) {
+// 	    	console.log(image_hidden, home);
+// 			}
+// 		)
+//
+// 	}
+// });
 
