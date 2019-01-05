@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5427330c-e746-48e0-add7-4ceb96c6617c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Piroll" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.58388007">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/script.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="334">
+                  <caret line="79" column="44" lean-forward="true" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/about.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3105">
+                  <caret line="135" column="42" selection-start-line="135" selection-start-column="42" selection-end-line="135" selection-end-column="42" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/home.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="143">
+                  <caret line="111" column="18" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/home.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="337">
+                  <caret line="116" column="39" selection-start-line="116" selection-start-column="39" selection-end-line="116" selection-end-column="39" />
+                  <caret line="112" column="39" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
+                  <caret line="108" column="39" selection-start-line="108" selection-start-column="39" selection-end-line="108" selection-end-column="39" />
+                  <caret line="104" column="39" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>banner</find>
+      <find>work_btn</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/css/style.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Home.html" />
+        <option value="$PROJECT_DIR$/owlcarousel/owl.carousel.min.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="261" />
+    <option name="width" value="1105" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Z\WebstormProjects\Piroll\libs" />
+      <recent name="C:\Users\Z\WebstormProjects\Piroll\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5427330c-e746-48e0-add7-4ceb96c6617c" name="Default Changelist" comment="" />
+      <created>1544964600189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544964600189</updated>
+      <workItem from="1544964602460" duration="46999000" />
+      <workItem from="1545408250292" duration="610000" />
+      <workItem from="1545550218493" duration="16897000" />
+      <workItem from="1545572954406" duration="29000" />
+      <workItem from="1545575895294" duration="12476000" />
+      <workItem from="1545666979688" duration="6892000" />
+      <workItem from="1545676179809" duration="461000" />
+      <workItem from="1545688779556" duration="291000" />
+      <workItem from="1545694950793" duration="1809000" />
+      <workItem from="1545750251115" duration="291000" />
+      <workItem from="1545751055112" duration="1240000" />
+      <workItem from="1545752592995" duration="6642000" />
+      <workItem from="1545765576998" duration="278000" />
+      <workItem from="1545765987883" duration="527000" />
+      <workItem from="1545824210579" duration="4309000" />
+      <workItem from="1545996600036" duration="2960000" />
+      <workItem from="1546101345606" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="121849000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="261" y="0" width="1105" height="728" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.09002976" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.2496124" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32982457" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32982457" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="RNConsole" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/site/js/jQuery.js" />
+    <entry file="file://$USER_HOME$/Desktop/site/index.js" />
+    <entry file="file://$PROJECT_DIR$/libs/owlcarousel/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="923" selection-start-line="5" selection-start-column="923" selection-end-line="5" selection-end-column="923" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/owlcarousel/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="264" column="23" selection-start-line="264" selection-start-column="23" selection-end-line="264" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2116">
+          <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3485">
+          <caret line="326" column="46" selection-start-line="326" selection-start-column="46" selection-end-line="326" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="135" column="42" selection-start-line="135" selection-start-column="42" selection-end-line="135" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="79" column="44" lean-forward="true" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="111" column="18" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
