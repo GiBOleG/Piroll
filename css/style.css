@@ -617,11 +617,22 @@ table {
     .about_us {
         width: 80%;
     }
+    .about_us h2 {
+        font-size: 20px;
+    }
     .skils_content {
         padding-left: 25px;
     }
     .skils_content h2 {
         font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .skils_content p {
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+    .skils_content progress {
+        margin-bottom: 10px;
     }
     .numbers {
         display: flex;
@@ -629,7 +640,7 @@ table {
     }
     .number_1 {
         flex-direction: column;
-        margin: 25px 0;
+        margin: 15px 0;
     }
     .number_img {
         margin-right: 10px;
@@ -637,8 +648,15 @@ table {
     .number_text {
         text-align: center;
     }
+    .number_text h5 {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .number_text p {
+        font-size: 10px;
+    }
     .work_img img {
-        width: 25%;
+
     }
     .work_btn button{
         padding: 10px 0;
@@ -664,12 +682,15 @@ table {
     }
     .all_services {
         width: 45%;
-        margin-bottom: 30px;
+        margin-bottom: 10px;
     }
     .all_services img {
         margin-bottom: 15px;
     }
     .all_services h5 {
+        margin-bottom: 10px;
+    }
+    .all_services p {
         margin-bottom: 10px;
     }
 
@@ -724,6 +745,8 @@ table {
         padding: 10px 25px;
     }
     .footer {
+        display: flex;
+        flex-wrap: wrap;
         padding: 20px 0;
         font-size: 8px;
     }
@@ -750,4 +773,17 @@ table {
         margin-bottom: 5px;
     }
 }
-
+@media (max-width: 400px) {
+    .footer {
+        justify-content: space-around;
+    }
+    .content_3 {
+        display: none;
+    }
+    .content_4 {
+        display: none;
+    }
+    .content_5 {
+        display: none;
+    }
+}
