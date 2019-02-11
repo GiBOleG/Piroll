@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5427330c-e746-48e0-add7-4ceb96c6617c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -182,7 +181,7 @@
       <workItem from="1547047123722" duration="53000" />
       <workItem from="1547047568061" duration="24000" />
       <workItem from="1547055370176" duration="11000" />
-      <workItem from="1548670312276" duration="1209000" />
+      <workItem from="1548670312276" duration="2083000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1546693127653</created>
@@ -212,11 +211,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548671232283</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add div.image-preview for index.html">
+      <created>1548671776226</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548671776226</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129542000" />
+    <option name="totallyTimeSpent" value="130416000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,7 +235,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.16294643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2496124" />
@@ -261,7 +266,8 @@
     <MESSAGE value="correct button &quot;LOAD MORE WORK&quot;" />
     <MESSAGE value="correct @media" />
     <MESSAGE value="add block for &quot;work_img&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add block for &quot;work_img&quot;" />
+    <MESSAGE value="add div.image-preview for index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add div.image-preview for index.html" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Desktop/site/js/jQuery.js" />
